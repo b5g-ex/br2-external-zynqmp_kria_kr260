@@ -10,6 +10,6 @@ $ git clone https://github.com/buildroot/buildroot.git
 $ cd buildroot
 $ git checkout 2022.05.2
 $ make BR2_EXTERNAL=/path/to/this-repo zynqmp_kria_kr260_defconfig
-$ ...
+$ make
 ```
 
